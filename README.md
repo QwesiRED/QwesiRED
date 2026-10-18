@@ -1,23 +1,12 @@
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   █████╗ ██████╗  █████╗ ███╗   ███╗    ███╗   ██╗██╗   ██╗██████╗ ██╗   ██╗ │
-│  ██╔══██╗██╔══██╗██╔══██╗████╗ ████║    ████╗  ██║██║   ██║██╔══██╗██║   ██║ │
-│  ███████║██║  ██║███████║██╔████╔██║    ██╔██╗ ██║██║   ██║██████╔╝██║   ██║ │
-│  ██╔══██║██║  ██║██╔══██║██║╚██╔╝██║    ██║╚██╗██║██║   ██║██╔══██╗██║   ██║ │
-│  ██║  ██║██████╔╝██║  ██║██║ ╚═╝ ██║    ██║ ╚████║╚██████╔╝██║  ██║╚██████╔╝ │
-│  ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ │
-│                                                                              │
-│  Offensive Security Consultant                               Melbourne, AU  │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+## Adam Nurudini
 
-**Penetration Tester** · **Security Researcher** · **Former SOC Manager**
+**Offensive Security Consultant** · Melbourne, AU
 
-I break into systems professionally so organizations can fix them before attackers do. My work has resulted in 14 CVEs across enterprise security products. Previously built and led a Tier-1 bank's SOC with zero breaches.
+Penetration Tester, Security Researcher, Former SOC Manager
 
-[Website](https://qwesired.github.io) · [LinkedIn](https://linkedin.com/in/adamnurudini) · [X](https://x.com/Qwesi_RED) · [Email](mailto:adam.nurudini@gmail.com)
+I break into systems professionally so organizations can fix them before attackers do. My work has resulted in **14 CVEs** across enterprise security products. Previously built and led a Tier-1 bank's SOC with zero breaches.
+
+[qwesired.github.io](https://qwesired.github.io) · [LinkedIn](https://linkedin.com/in/adamnurudini) · [X](https://x.com/Qwesi_RED)
 
 ---
 
@@ -39,38 +28,30 @@ I break into systems professionally so organizations can fix them before attacke
 | CVE-2026-77927 | ClipBucket V5 | SQL Injection | **7.1** |
 | CVE-2026-77914 | rConfig | Path Traversal | **7.1** |
 
-Full writeups at [qwesired.github.io/cves](https://qwesired.github.io/cves)
+Full writeups → [qwesired.github.io/cves](https://qwesired.github.io/cves)
 
 ---
 
 ### Experience
 
-```
-2023–Present  Offensive Security Consultant @ Sekuro
-              Mobile AppSec SME · Cloud Security Audits · Red Team Engagements
-              
-2022–2023     SOC Manager @ Consolidated Bank Ghana  
-              Built SOC from ground up · Zero data breaches · ISO 27001 & PCI-DSS
-              
-2019–2022     Senior Security Engineer @ Consolidated Bank Ghana
-              SIEM/XDR deployment · 200+ application pentests · PAM implementation
-              
-2018–2019     Senior Security Consultant @ Netwatch Technologies
-              API/Mobile security assessments · Incident response lead
-              
-2015–2018     Information Security Officer @ ToppCore Security
-              Penetration testing · Physical security assessments
-```
+| | |
+|:--|:--|
+| **2023–Present** | **Offensive Security Consultant** · Sekuro |
+| | Mobile AppSec SME · Cloud Security Audits · Red Team |
+| **2022–2023** | **SOC Manager** · Consolidated Bank Ghana |
+| | Built SOC from ground up · Zero breaches · ISO 27001 & PCI-DSS |
+| **2019–2022** | **Senior Security Engineer** · Consolidated Bank Ghana |
+| | SIEM/XDR deployment · 200+ app pentests · PAM implementation |
+| **2018–2019** | **Senior Security Consultant** · Netwatch Technologies |
+| | API/Mobile security · Incident response lead |
+| **2015–2018** | **Information Security Officer** · ToppCore Security |
+| | Penetration testing · Physical security assessments |
 
 ---
 
 ### Certifications
 
-**OffSec:** OSCP+ · OSCP  
-**INE:** eMAPT · eWPTX  
-**CREST:** CRT · CPSA  
-**TCM Security:** PNPT  
-**PECB:** ISO 27032 · ISO 27001
+**OffSec** OSCP+ · OSCP **│** **INE** eMAPT · eWPTX **│** **CREST** CRT · CPSA **│** **TCM** PNPT **│** **PECB** ISO 27032 · ISO 27001
 
 ---
 
@@ -85,11 +66,11 @@ Full writeups at [qwesired.github.io/cves](https://qwesired.github.io/cves)
 
 ### Stack
 
-**Offensive:** Burp Suite, Metasploit, Cobalt Strike, Frida, MobSF, Objection  
-**Detection:** Rapid7 InsightIDR, Splunk, Microsoft Sentinel, Darktrace  
-**Cloud:** AWS, Azure, GCP  
-**Languages:** Python, Bash, Go, PHP
+**Offensive** Burp Suite · Metasploit · Cobalt Strike · Frida · MobSF · Objection  
+**Detection** Rapid7 InsightIDR · Splunk · Microsoft Sentinel · Darktrace  
+**Cloud** AWS · Azure · GCP  
+**Languages** Python · Bash · Go · PHP
 
 ---
 
-<sub>Available for penetration testing engagements and security consulting. Based in Melbourne, working globally.</sub>
+<sub>Available for penetration testing engagements and security consulting.</sub>
