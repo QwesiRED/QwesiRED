@@ -7,7 +7,7 @@
 Offensive security consultant with 14 CVEs and a track record building bank-grade SOCs.  
 I've attacked systems and defended them—that dual perspective shapes every engagement.
 
-🔬 **Currently:** Mobile application security research, Android/iOS runtime manipulation
+🔬 **Currently:** Offensive Security Consultant (SecOpps & Appsec)
 
 <a href="https://qwesired.github.io">🌐 Website</a> · <a href="https://linkedin.com/in/adamnurudini">💼 LinkedIn</a> · <a href="https://x.com/Qwesi_RED">𝕏</a> · <a href="mailto:adam.nurudini@gmail.com">✉️ Email</a>
 
