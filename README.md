@@ -2,12 +2,12 @@
 
 <img align="right" src="https://img.shields.io/badge/14_CVEs-Critical_&_High-b91c1c?style=flat-square" alt="CVE count"/>
 
-**Offensive Security Consultant** · Melbourne, AU
+**Senior Offensive Security Consultant** · Melbourne, AU
 
 Offensive security consultant with 14 CVEs and a track record building bank-grade SOCs.  
 I've attacked systems and defended them—that dual perspective shapes every engagement.
 
-🔬 **Currently:** Offensive Security Consultant (SecOpps & Appsec)
+🔬 **Currently:** Senior Offensive Security Consultant (SecOpps & Appsec)
 
 <a href="https://qwesired.github.io">🌐 Website</a> · <a href="https://linkedin.com/in/adamnurudini">💼 LinkedIn</a> · <a href="https://x.com/Qwesi_RED">𝕏</a> · <a href="mailto:adam.nurudini@gmail.com">✉️ Email</a>
 
